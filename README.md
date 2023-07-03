@@ -12,12 +12,12 @@ http://localhost:3333
 
 #### Funcionalidades
 
-[x] Criação de uma task
-[x] Listagem de todas as tasks
-[x] Atualização de uma task pelo `id`
-[x] Remover uma task pelo `id`
-[x] Marcar pelo `id` uma task como completa
-[x] Importação de tasks em massa por um arquivo CSV. ``` node src/streams/import-csv.js ```
+- [x] Criação de uma task
+- [x] Listagem de todas as tasks
+- [x] Atualização de uma task pelo `id`
+- [x] Remover uma task pelo `id`
+- [x] Marcar pelo `id` uma task como completa
+- [x] Importação de tasks em massa por um arquivo CSV. ``` node src/streams/import-csv.js ```
 
 
 
